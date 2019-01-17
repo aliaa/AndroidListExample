@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ListTraining</string>
+    <array name="cities">
+        <item>تبریز</item>
+        <item>تهران</item>
+        <item>شیراز</item>
+        <item>مشهد</item>
+        <item>اصفهان</item>
+    </array>
 </resources>
